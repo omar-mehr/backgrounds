@@ -1,1 +1,10 @@
-
+{
+  "sizeduck": {
+    "h": "50px",
+    "w": "50px"
+  },
+  "speed": 2,
+  "duration": 20,
+  "duckImage": "https://raw.githubusercontent.com/omar-mehr/backgrounds/main/duck/duckmedium.png",
+  "backgroundVideo": "https://raw.githubusercontent.com/omar-mehr/backgrounds/main/medium.mp4"
+  }
